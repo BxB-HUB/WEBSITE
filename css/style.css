@@ -104,6 +104,7 @@ body {
     background: linear-gradient(45deg, #333333, #626b73);
     box-shadow: 0px 4px 30px rgb(63 65 67 / 60%);
 }
-.T.T{
-    box-shadow: rgb(63 65 67 / 60%);
+.profile-card-info .TEXT{
+    color:rgb(255, 0, 0);
+    font-size: 18px;
 }
