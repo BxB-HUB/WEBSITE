@@ -96,6 +96,10 @@ body {
     background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
     box-shadow: 0px 4px 30px rgb(120 64 190 / 60%);
 }
+.discord{
+    background: linear-gradient(45deg, #3b5998, #0078d7);
+    box-shadow: 0px 4px 30px rgb(120 64 190 / 60%);
+}
 .github{
     background: linear-gradient(45deg, #333333, #626b73);
     box-shadow: 0px 4px 30px rgb(63 65 67 / 60%);
