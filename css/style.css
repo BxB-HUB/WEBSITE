@@ -56,6 +56,10 @@ body {
     color:rgb(172, 172, 172);
     font-size: 18px;
 }
+.profile-card-info .TEXTM{
+    color:rgb(0, 0, 250);
+    font-size: 15px;
+}
 .profile-card-info .TEXT{
     color:rgb(255, 0, 0);
     font-size: 11px;
