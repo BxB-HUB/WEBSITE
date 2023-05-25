@@ -15,6 +15,10 @@ body {
     display: flex;
     background: linear-gradient(28deg, rgba(2,0,36,1) 0%, rgba(51,114,190,1) 0%, rgba(94,8,112,1) 0%, rgba(90,7,101,1) 12%, rgba(105,9,121,1) 38%, rgba(90,38,140,1) 47%, rgba(75,68,160,1) 56%, rgba(65,88,173,1) 62%, rgba(0,212,255,1) 100%);
 }
+
+ul.no-dot {
+  list-style-type: none;
+}
 .profile-card{
     width: 100%;
     min-height: 400px;
